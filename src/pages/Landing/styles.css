@@ -8,6 +8,20 @@
     background: var(--color-primary);
 }
 
+#general {
+    width: 100vw;
+    height: 100vh;
+    color: var(--color-text-in-primary);
+    background: var(--color-primary);
+    justify-content: center;
+    align-items: center;
+    margin: 10rem;
+}
+
+#session {
+    margin: 10rem;
+}
+
 .logo-container img {
     height: 10rem;
 }

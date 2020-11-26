@@ -1,0 +1,86 @@
+{
+    "Header": {
+        "title": "POALAB",
+        "paragraph": "Atenção! \n Estamos Mudando de sala! Continuaremos no campus Porto Alegre do IFRS voltamos em breve."
+    },
+    "Calendar": {
+        "title":"Calendário do POALAB",
+        "coordinator": {
+            "name": "André Peres",
+            "email": "andre.peres@poa.ifrs.edu.br"
+        },
+        "paragraph": "R. Cel. Vicente, 281 \n Sala 1016 - Torre Sul \n Centro Histórico \n Porto Alegre - RS \n CEP: 90030-041"
+    },
+    "About": {
+        "paragraph": "O POALAB é um laboratório de fabricação digital e está conectado à rede mundial de fab labs. Opera como um programa de extensão do IFRS campus Porto Alegre. Temos como missão popularizar o acesso e letramento na fabricação digital, funcionando como uma plataforma de criatividade, aprendizagem e invenção. Ser um Fab Lab significa estar conectado a uma comunidade mundial de alunos, educadores, técnicos, pesquisadores e inovadores e desenvolver atividades dentro da filosofia do conhecimento aberto."
+    },
+    "Channels": [
+        {
+            "icon": "fa fa-facebook",
+            "link": "https://www.facebook.com/poalab"
+        },
+        {
+            "icon": "fa fa-youtube",
+            "link": "https://www.youtube.com/channel/UCWZzR8M4KKD6l7hpOZb9viA"
+        }
+    ],
+    "Links": [
+        {
+            "image": "images/links/braille.jpg",
+            "link": "https://cta-ifrs.github.io/Text2Braille3d/"
+        },
+        {
+            "image": "images/links/tinkercad.jpg",
+            "link": "https://www.poalab.net.br/fabbernatives/"
+        },
+        {
+            "image": "images/links/fabcity.jpg",
+            "link": "https://www.instructables.com/"
+        },
+        {
+            "image": "images/links/fabfoundation.jpg",
+            "link": "https://www.opendesk.cc/"
+        },
+        {
+            "image": "images/links/inkscape.jpg",
+            "link": "http://fabacademy.org/"
+        },
+        {
+            "image": "images/links/InstructablesRobot.jpg",
+            "link": "http://www.fabfoundation.org/"
+        },
+        {
+            "image": "images/links/logo.jpg",
+            "link": "https://fab.city/"
+        },
+        {
+            "image": "images/links/make.jpg",
+            "link": "https://makezine.com/"
+        },
+        {
+            "image": "images/links/makepoa.jpg",
+            "link": "https://www.tinkercad.com/"
+        },
+        {
+            "image": "images/links/makercase.jpg",
+            "link": "https://inkscape.org/pt-br/"
+        },
+        {
+            "image": "images/links/opendesk.jpg",
+            "link": "http://www.makercase.com/"
+        },
+        {
+            "image": "images/links/rbac.jpg",
+            "link": "http://aprendizagemcriativa.org/"
+        },
+        {
+            "image": "images/links/thingiverse.jpg",
+            "link": "https://portoalegre.makerfaire.com/"
+        },
+        {
+            "image": "images/links/fabacademy.jpg",
+            "link": "https://www.thingiverse.com/"
+        }
+        
+    ]
+}

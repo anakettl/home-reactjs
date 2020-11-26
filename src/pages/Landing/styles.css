@@ -36,6 +36,12 @@
     margin: 5px;
 }
 
+#link-fab{
+    text-decoration: none;
+    color: var(--color-button-text);
+    transition: background-color 0.2s;
+}
+
 .logo-container img {
     height: 10rem;
 }

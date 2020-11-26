@@ -43,14 +43,14 @@ function Landing() {
                 </div>
                 <div id="session-content">
                     <Description name="description-block-3"
-                    text="Ser um Fab Lab significa estar conectado
-                    a uma comunidade mundial de alunos, educadores,
-                    técnicos, pesquisadores e inovadores e desenvolver
-                    atividades dentro da filosofia do conhecimento aberto."/>
+                    text="Estamos conectados a uma comunidade mundial de alunos, educadores,
+                    técnicos e inovadores e desenvolver
+                    atividades na filosofia do conhecimento aberto."/>
                 </div>
                 <div id="session-content">
-                    <p>Conheça a carta de Intenções que regra os Fab Labs.</p>
-                    <Link to="/fab-foundation">
+                    <Description name="description-block-3"
+                    text="Conheça a carta de Intenções que regra os Fab Labs." />
+                    <Link id="link-fab" to="/fab-foundation">
                         FAB CHARTER
                     </Link> 
                 </div>

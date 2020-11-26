@@ -4,22 +4,36 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: var(--color-text-in-primary);
-    background: var(--color-primary);
+    color: var(--color-text-title);
+}
+
+#page-landing h2 {
+    font-weight: 500;
+    font-size: 12.4rem;
+    line-height: 3.6rem;
+    margin-top: 15.8rem;
+    margin-left: -10rem;
 }
 
 #general {
     width: 100vw;
     height: 100vh;
-    color: var(--color-text-in-primary);
-    background: var(--color-primary);
     justify-content: center;
     align-items: center;
-    margin: 10rem;
 }
 
 #session {
-    margin: 10rem;
+    padding: 5rem;
+    font-style: var(--color-text-title);
+    background: var(--color-primary-darker);
+    max-width: 1500px !important;
+    display: grid;
+    text-align: center;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+}
+
+#session-content {
+    margin: 5px;
 }
 
 .logo-container img {

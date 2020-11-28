@@ -5,10 +5,16 @@
 Você precisa ter o <a href="https://nodejs.org/">Node JS</a> instalado em sua máquina. 
 
 ### Para rodar o projeto você precisa clona-lo
- ```git clone``` seguido da url do projeto ```https://github.com/analuciabolico/poalab```
+ ```git clone``` seguido da url do projeto ```https://github.com/anakettl/home-reactjs```
+
 ### Logo após clonar é necessário baixar as dependencias do projeto
  ```yarn install```
+ ou
+ ```npm i```
 
 ## E por fim, para executa-lo basta rodar o comando
 ```yarn start```
+ou
+```npm start```
+
 ##### Ana Lúcia Bolico de Oliveira e Ana Clara Kettl

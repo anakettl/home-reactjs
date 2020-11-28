@@ -24,7 +24,7 @@ export default class Equipment extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href={printer}
+                      href={ printer }
                       title="impressora"
                       data-lightbox-equipments="equipments1"
                     >
@@ -38,7 +38,7 @@ export default class Equipment extends Component {
                         </span>
                       </div>
                       <img
-                        src={printer}
+                        src={ printer }
                         className="img-responsive"
                         alt="impressora"
                       />{" "}
@@ -51,7 +51,7 @@ export default class Equipment extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href={printer2}
+                      href={ printer2 }
                       title="impressora 2"
                       data-lightbox-equipments="equipments2"
                     >
@@ -64,7 +64,7 @@ export default class Equipment extends Component {
                         </span>
                       </div>
                       <img
-                        src={printer2}
+                        src={ printer2 }
                         className="img-responsive"
                         alt="impressora 2"
                       />{" "}
@@ -77,7 +77,7 @@ export default class Equipment extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href={PlotterRecorte}
+                      href={ PlotterRecorte }
                       title="Plotter Recorte"
                       data-lightbox-equipments="equipments4"
                     >
@@ -92,7 +92,7 @@ export default class Equipment extends Component {
                         </span>
                       </div>
                       <img
-                        src={PlotterRecorte}
+                        src={ PlotterRecorte }
                         className="img-responsive"
                         alt="Plotter Recorte"
                       />{" "}
@@ -105,7 +105,7 @@ export default class Equipment extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href={fresadora}
+                      href={ fresadora }
                       title="Fresadora"
                       data-lightbox-equipments="equipments5"
                     >
@@ -113,13 +113,13 @@ export default class Equipment extends Component {
                         <h4>1 Fresadora MTC-200×250<br></br>(não operacional)</h4>
                         <span>
                           área: 200mm x 250mm<br></br>
-							eixo z: 150mm<br></br>
-							refrigeração do motor a ar<br></br>
-							velocidade de rotação programável<br></br>
+                          eixo z: 150mm<br></br>
+                          refrigeração do motor a ar<br></br>
+                          velocidade de rotação programável<br></br>
                         </span>
                       </div>
                       <img
-                        src={fresadora}
+                        src={ fresadora }
                         className="img-responsive"
                         alt="Fresadora"
                       />{" "}
@@ -132,7 +132,7 @@ export default class Equipment extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href={plotterImpressão}
+                      href={ plotterImpressão }
                       title="Plotter de Impressão"
                       data-lightbox-equipments="equipments7"
                     >
@@ -146,7 +146,7 @@ export default class Equipment extends Component {
                         </span>
                       </div>
                       <img
-                        src={plotterImpressão}
+                        src={ plotterImpressão }
                         className="img-responsive"
                         alt="Plotter de Impressão"
                       />{" "}
@@ -159,7 +159,7 @@ export default class Equipment extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href={bancadaEletrônica}
+                      href={ bancadaEletrônica }
                       title="Bancada de Eletrônica"
                       data-lightbox-equipments="equipments8"
                     >
@@ -173,7 +173,7 @@ export default class Equipment extends Component {
                         </span>
                       </div>
                       <img
-                        src={bancadaEletrônica}
+                        src={ bancadaEletrônica }
                         className="img-responsive"
                         alt="Bancada de Eletrônica"
                       />{" "}
@@ -186,7 +186,7 @@ export default class Equipment extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href={laserCutter}
+                      href={ laserCutter }
                       title="Cortadora Laser"
                       data-lightbox-equipments="equipments3"
                     >
@@ -213,7 +213,7 @@ export default class Equipment extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href={extrusoraFilamento}
+                      href={ extrusoraFilamento }
                       title="Extrusora Filamento"
                       data-lightbox-equipments="equipments6"
                     >
@@ -226,7 +226,7 @@ export default class Equipment extends Component {
                         </span>
                       </div>
                       <img
-                        src={extrusoraFilamento}
+                        src={ extrusoraFilamento }
                         className="img-responsive"
                         alt="Extrusora Filamento"
                       />{" "}

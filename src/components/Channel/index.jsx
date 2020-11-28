@@ -10,7 +10,7 @@ export default class Channel extends Component {
             <h2>Nossos Canais</h2>
           </div>
           <div className="row">
-            {this.props.data?.map((d, i) => (
+            { this.props.data?.map((d, i) => (
               <div key={`${d.link}-${i}`} className="col-md-6">
                 {" "}
                 <a href={d.link}>

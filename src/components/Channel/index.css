@@ -1,16 +1,19 @@
 
 /* Channels Section */
 #channels {
-	padding: 100px 0;
-	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
 	color: #fff;
+	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+	padding: 100px 0;
 }
+
 #channels .service-desc {
 	margin: 10px 10px 20px;
 }
+
 #channels h2 {
 	color: #fff;
 }
+
 #channels .section-title h2::after {
 	position: absolute;
 	content: "";
@@ -21,24 +24,28 @@
 	margin-left: -30px;
 	left: 50%;
 }
+
 #channels i.fa {
+	color: #fff;
 	font-size: 42px;
 	width: 120px;
 	height: 120px;
 	padding: 40px 0;
 	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
 	border-radius: 50%;
-	color: #fff;
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
 }
+
 #channels h3 {
+	color: #fff;
 	font-weight: 500;
 	padding: 5px 0;
-	color: #fff;
 }
+
 #channels p {
 	color: rgba(255,255,255,.75);
 }
+
 #channels .service-desc {
 	margin-bottom: 40px;
 }

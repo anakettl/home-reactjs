@@ -26,14 +26,14 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <Navigation />
-        <Header data={this.state.data.Header} />
-        <About data={this.state.data.About} />
-        <Link data={this.state.data.Links} />
-        <Equipment />
-        <Channels data={this.state.data.Channels} />
-        <OpenDay />
-        <Calendar data={this.state.data.Calendar} />
+        < Navigation />
+        < Header data={this.state.data.Header} />
+        < About data={this.state.data.About} />
+        < Link data={this.state.data.Links} />
+        < Equipment />
+        < Channels data={this.state.data.Channels} />
+        < OpenDay />
+        < Calendar data={this.state.data.Calendar} />
       </div>
     )
   }

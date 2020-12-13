@@ -17,13 +17,15 @@ ReactJS: 16.13.1
 
 ### Dependências
 
-Você precisa ter o <a href="https://nodejs.org/">Node JS</a> instalado em sua máquina. Para instalar siga as instruções no link
+Você precisa ter o <a href="https://nodejs.org/">Node JS</a> instalado em sua máquina.
+Vocẽ vai precisar do GIT <a href="https://git-scm.com/">Git</a> instalado para poder clonar o repositorio (<a href="https://git-scm.com/download/mac">Git no MAC com HomeBrew</a>).
+Para instalar siga as instruções nos links.
 
 ### Instalação
 
 #### Clonar o projeto
   No terminal digite:
- ```git clone``` seguido da url do projeto ```https://github.com/analuciabolico/poalab```
+ ```git clone``` seguido da url do projeto ```https://github.com/anakettl/home-reactjs```
   Entre na pasta do projeto via terminal
 
 #### Baixar as dependências

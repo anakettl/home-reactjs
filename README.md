@@ -12,28 +12,31 @@ Você pode acessar o site original do POALAB nesse link
 
 ### Versões
 
-NodeJS: 12.18.0
-ReactJS: 16.13.1
+ - NodeJS: 12.18.0
+ - ReactJS: 16.13.1
 
 ### Dependências
 
 Você precisa ter o <a href="https://nodejs.org/">Node JS</a> instalado em sua máquina.
-Vocẽ vai precisar do GIT <a href="https://git-scm.com/">Git</a> instalado para poder clonar o repositorio (<a href="https://git-scm.com/download/mac">Git no MAC com HomeBrew</a>).
+Vocẽ vai precisar do <a href="https://git-scm.com/">Git</a> instalado para poder clonar o repositorio (<a href="https://git-scm.com/download/mac">Git no MacBook com HomeBrew</a>).
 Para instalar siga as instruções nos links.
 
 ### Instalação
 
 #### Clonar o projeto
-  No terminal digite:
- ```git clone``` seguido da url do projeto ```https://github.com/anakettl/home-reactjs```
-  Entre na pasta do projeto via terminal
+ - No terminal digite:
+
+ ```git clone https://github.com/anakettl/home-reactjs```
+ - Entre na pasta do projeto via terminal
 
 #### Baixar as dependências
-  Para baixar e instalar as dependências necessárias digite no seu terminal:
+ - Para baixar e instalar as dependências necessárias digite no seu terminal:
+
  ```yarn install```
 
 #### Executar o projeto
-  Digite no terminal
+ - Digite no terminal:
+
   ```yarn start```
 
 ### Autoras

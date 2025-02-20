@@ -39,7 +39,7 @@ Para instalar siga as instruções nos links.
 
   ```yarn start```
 
-### Autoras
-##### Ana Lúcia Bolico de Oliveira e Ana Clara Kettl
+### Autors
+##### @bolicos e @anakettl
 
 
